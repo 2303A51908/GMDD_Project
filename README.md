@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Subway Surfers Clone for PC (Unity 3D)
 
 <br/>
@@ -77,3 +78,6 @@ The player runs through an infinite subway world, dodging trains, jumping over r
         style="width:100%; max-width:450px; border-radius:10px;"></video>
       </div>
     </td>
+=======
+# GMDD_Project
+>>>>>>> 2cd514c5f3503a356108855458fca256c563c4cf
